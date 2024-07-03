@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enochomobolajiflourish/development/projects/school/mlruns/0/00c636d32cb74655a241ba3c0e609b61/artifacts
+end_time: 1720005059558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c636d32cb74655a241ba3c0e609b61
+run_name: run_2
+run_uuid: 00c636d32cb74655a241ba3c0e609b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720005055973
+status: 3
+tags: []
+user_id: enochomobolajiflourish
